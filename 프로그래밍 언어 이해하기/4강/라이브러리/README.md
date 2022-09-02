@@ -6,6 +6,8 @@
 
 >기존의 코드에서 필요한 코드를 추가하니 프로그램을 만드는 속도가 훨씬 빨라졌다
 
+>언어마다 자신에게 맞는 라이브러리가 
+
 ```
 import pandas as pd
 import seaborn as sns
