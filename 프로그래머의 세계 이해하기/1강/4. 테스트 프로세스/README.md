@@ -24,3 +24,10 @@
 >Jira, asana, trello
 
 버그를 기록할 수 있는 공간이다
+
+## 이슈가 생겼을 시
+1. open: 이슈가 생김
+2. in - progress: 개발자가 개선 작업 진행
+3. resolved: 문제가 해결됨 (개발자가 작업 완료)
+4. closed:테스트 결과 버그가 잘 해결됨
+5. reopen: 추가적인 문제 발생시 다시 open으로 돌아감
