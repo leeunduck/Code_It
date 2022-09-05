@@ -20,6 +20,7 @@ Americano_price = 3500;
 console.log(Americano_price);
 
 ➡️ 3500
+```
 
 ```
 let Americano_price = 3500;
