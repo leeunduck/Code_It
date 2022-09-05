@@ -24,3 +24,15 @@ console.log(get_twice(5));
 ➡️ console.log(10);과 같은 코드가 된다
 ```
 
+```
+function get_twice(number) {
+  return number * 2;
+};
+
+let x = get_twice(5);
+let y = get_twice(2);
+
+console.log(x * y);
+
+출력내용 ➡️ 40
+```
