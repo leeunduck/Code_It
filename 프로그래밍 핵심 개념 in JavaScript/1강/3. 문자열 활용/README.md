@@ -12,7 +12,7 @@ console.log(`He said "I'm unducklee"`);
 ```
 
 ```
-// 문자열 연사
+// 문자열 연산
 console.log("Hello" + "unducklee");
 출력내용: Hellounducklee
 
