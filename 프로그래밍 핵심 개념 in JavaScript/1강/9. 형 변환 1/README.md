@@ -8,7 +8,7 @@ console.log('10' + '5'); ➡️ 105
 console.log (10 + 5); ➡️ 15
 
 console.log(Number('10') + Number('5')); ➡️ 15
-console.log (String(10) + string(5)); ➡️ 105
+console.log (String(10) + String(5)); ➡️ 105
 ```
 
 ```
