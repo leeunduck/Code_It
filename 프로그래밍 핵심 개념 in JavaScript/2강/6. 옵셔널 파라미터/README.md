@@ -29,8 +29,8 @@ console.log(sayHello('이현석최고'));
 ```
 // 옵셔널 파라미터
 function introduce(name, age, nationlity = '한국')
-  console.log(제 이름은 ${name}입니다.`);
-  console.log(나이는 ${age}살 이고,`);
+  console.log(`제 이름은 ${name}입니다.`);
+  console.log(`나이는 ${age}살 이고,`);
   console.log(`국적은 ${nationlity}입니다.`);
 }
 
