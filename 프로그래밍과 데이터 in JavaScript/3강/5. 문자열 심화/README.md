@@ -24,7 +24,7 @@ let my_string = 'Hi unducklee';
 
 // 요소 탐색
 console.log(my_string.indexOf('e')); // 앞부터
-console.log(my_string.lastIndexOf('e')); // 뒤부터ㅏ
+console.log(my_string.lastIndexOf('e')); // 뒤부터
 
 ➡️ 10
 ➡️ 0
