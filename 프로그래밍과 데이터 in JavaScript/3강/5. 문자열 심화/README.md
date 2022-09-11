@@ -51,7 +51,7 @@ console.log(my_string.trim());
 ```
 
 ```
-let my_string = '   Hi unducklee  ';
+let my_string = 'Hi unducklee';
 
 // 부분 문자열 접근 slice(stard, end)
 console.log(my_string.slice(0, 2));
