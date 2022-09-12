@@ -30,7 +30,11 @@ HTML 파일을 쓸 때는 가장 먼저 <!DOCTYPE> 선언을 써야 합니다. �
   
 ## h1~h6 태그
   
-한 페이지에 여러 개의 머리말이 있을 수 있는데요. 그 중 가장 중요한 머리말은 <h1>(heading 1), 그 다음으로 중요한 머리말은 <h2>(heading 2). 이런 식으로 <h6>(heading 6)까지 작성할 수 있습니다.
+한 페이지에 여러 개의 머리말이 있을 수 있는데요. 그 중 가장 중요한 머리말은 <h1>(heading 1), 
+  
+그 다음으로 중요한 머리말은 <h2>(heading 2). 
+  
+이런 식으로 <h6>(heading 6)까지 작성할 수 있습니다.
 
 ```
 HTMLCSS
@@ -42,10 +46,10 @@ HTMLCSS
 <h6>머리말 6</h6>
 ```
 
-각 머리말의 크기는 나중에 마음대로 설정할 수 있지만, 따로 설정해주지 않으면 <h1>부터 순서대로 작아집니다.
+각 머리말의 크기는 나중에 마음대로 설정할 수 있지만, 따로 설정해주지 않으면 h1부터 순서대로 작아집니다.
 
-<p> 태그
-보통 문단은 <p>(paragraph) 태그 안에 넣습니다. 물론 직접 설정할 수도 있지만 <p> 태그 위, 아래에는 기본적으로 여백이 조금씩 있습니다.
+## p 태그
+보통 문단은 p(paragraph) 태그 안에 넣습니다. 물론 직접 설정할 수도 있지만 <p> 태그 위, 아래에는 기본적으로 여백이 조금씩 있습니다.
 
 ```
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -53,3 +57,4 @@ HTMLCSS
 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, 
 sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+```
