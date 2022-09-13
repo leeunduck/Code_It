@@ -27,7 +27,8 @@ In eu ipsum et quam finibus fermentum vitae sit amet magna.</p>
 <p style="font-size: 18px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Quisque sit amet lorem sit amet nunc ornare convallis. Pellentesque ac posuere lectus. 
 In eu ipsum et quam finibus fermentum vitae sit amet magna.</p>
-
+```
+ 
 3. 외부 CSS 파일 + <link> 태그
 
 css/styles.css
