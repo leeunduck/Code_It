@@ -10,7 +10,7 @@
 - [x] 프로그래밍 시작하기 in JavaScript
 - [x] 프로그래밍 핵심 개념 in JavaScript
 - [x] 프로그래밍과 데이터 in JavaScript
-- [ ] HTML/CSS 시작하기
+- [x] HTML/CSS 시작하기
 - [ ] HTML/CSS 핵심 개념
 - [ ] 반응형 웹 퍼블리싱
 - [ ] 인터랙티브 자바스크립트
